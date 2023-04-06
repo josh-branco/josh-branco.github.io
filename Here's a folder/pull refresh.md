@@ -1,3 +1,0 @@
-# pull refresh
-
-It seems the process is simply to pull and refresh. Maybe this is all I need. Do I really need obsidian? This give me my simple text file anywhere I go. Github as a productive tool for the non programmer? Maybe...
