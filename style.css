@@ -1,9 +1,25 @@
 body {
-  <<<<<<< HEAD margin: 0 auto;
   background-color: #2D2B55;
-  color: #A5FF90;
 }
-
-nav a {
-  margin-right: 5px;
+h1, h2 {
+	color: #A5FF90;
+	font-family: Monaco, monospace;
+}
+p {
+	color: #A5FF90;
+	font-family: Helvetica, sans-serif;
+}
+a {
+	font-family: Monaco, monospace;
+}
+a:link {
+	color: #9EFFFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #FB94FF;
+}
+a:visited {
+	color: #9EFFFF;
+	text-decoration: none;
 }
